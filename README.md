@@ -9,3 +9,6 @@ This test is ***interesting***
 > I'm spending the day with future programmers
 >> I might want to study programming. I'm not sure yet.
 
+## info about the creator
+Check out **[Spikeses] (https://github.com/spikeses)**
+
