@@ -6,8 +6,8 @@ The *test* is made at **school**
 This test is ***interesting***
 
 ## Why am *I* doing the test?
-> I'm spending the day with future programmers
->> I might want to study programming. I'm not sure yet.
+> ugheruhgoerhge
+>> ierfhiowqhfoihr
 
 ## info about the creator
 Check out **[Spikeses](https://github.com/spikeses)**.
