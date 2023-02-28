@@ -12,8 +12,9 @@ This test is ***interesting***
 ## info about the creator
 Check out **[Spikeses](https://github.com/spikeses)**.
 
-![image](https://user-images.githubusercontent.com/126550224/221822159-16cc163a-0f3a-48a5-ba38-59f6302d52e1.png "A picture")
-<img src= "https://user-images.githubusercontent.com/126550224/221823418-90ac2eaa-cceb-45d3-bb3f-ce1ea8ebf767.png" width= "300" height= "200">
-
+<figure>
+  <img src= "https://user-images.githubusercontent.com/126550224/221823418-90ac2eaa-cceb-45d3-bb3f-ce1ea8ebf767.png" width= "300" height= "200">
+  <figcaption>A picture of a pocketwatch.</figcaption>
+ </figure>
 
 
