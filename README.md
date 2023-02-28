@@ -10,5 +10,5 @@ This test is ***interesting***
 >> I might want to study programming. I'm not sure yet.
 
 ## info about the creator
-Check out **[Spikeses] (https://github.com/spikeses)**
+Check out **[Spikeses](https://github.com/spikeses)**.
 
